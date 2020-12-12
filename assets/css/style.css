@@ -1,0 +1,21 @@
+/* body style */
+body 
+    {font-family: Arial, Helvetica, sans-serif; 
+    background-color: tomato; 
+    color:#39a6b2}
+
+/* header style */
+header
+    {padding: 10px 15px 20px 25px;
+    background-color:#39a6b2;
+    font-weight:bold;
+    font-size: 36px;
+    color:#fce138;
+    margin:0;} 
+header a 
+    {text decoration: none;
+    color:#fce138;}
+
+header nav
+    {float: right;
+    margin: 7 px 0;}
